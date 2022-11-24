@@ -2,3 +2,12 @@ h1{
     color: white;
     background: black;
 }
+
+body{
+    background: black;
+}
+
+td {
+    border: 1px solid #000000;
+    border-color: cor;
+}

@@ -4,10 +4,10 @@ h1{
 }
 
 body{
-    background: black;
+    background: white;
 }
 
 td {
     border: 1px solid;
-    border-color: white;
+    border-color: black;
 }

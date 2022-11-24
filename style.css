@@ -8,6 +8,6 @@ body{
 }
 
 td {
-    border: 1px solid #000000;
-    border-color: cor;
+    border: 1px solid;
+    border-color: black;
 }

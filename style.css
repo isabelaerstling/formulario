@@ -1,13 +1,14 @@
 h1{
     color: white;
-    background: gray;
+    background: black;
 }
 
 body{
     background: white;
 }
 
-td {
+table tr td {
     border: 1px solid;
-    border-color: white;
+    border-color: black;
+   
 }
